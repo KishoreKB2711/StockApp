@@ -1,0 +1,7 @@
+dash
+plotly
+pandas
+numpy
+matplotlib
+azure-storage-blob
+gunicorn
